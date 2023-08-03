@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Maijuddin
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning java programming language
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning Fullstack web development
+- 💞️ I’m looking for job in web-development
+- 📫 How to reach me...
 
 
 <!---
